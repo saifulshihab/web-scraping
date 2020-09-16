@@ -1,2 +1,2 @@
 # web-scraping
-Web scraping using Python.
+Web scraping using Python(Beautiful Soap).
